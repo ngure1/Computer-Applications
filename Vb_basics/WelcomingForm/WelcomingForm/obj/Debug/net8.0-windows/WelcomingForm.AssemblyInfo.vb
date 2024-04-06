@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("WelcomingForm"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+14a134295cec1e073dfec74c5130b6aec8064f4d"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5873d2f8f7715f7dd2f551d39539f0fe320040c7"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("WelcomingForm"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("WelcomingForm"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _
